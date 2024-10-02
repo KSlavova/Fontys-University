@@ -1,0 +1,1 @@
+<h1>Learning outcomes: </h1> You apply professional practice, both individually and in teams, in the areas of project organization, communication with stakeholders, exploratory research, and reporting.
