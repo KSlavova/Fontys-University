@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="static/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="refresh" content="10">
+        <title>Time and Light</title>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Display</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th class="text">Time</th>
+                        <th class="text">Light Level</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for sample in samples %}
+                    <tr>
+                        <td class="text">{{ sample[0] }}</td>
+                        <td class="text">{{ sample[1] }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
