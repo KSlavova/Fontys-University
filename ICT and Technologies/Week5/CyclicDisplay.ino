@@ -68,7 +68,7 @@ void loop() {
     Display.show(lux/1000);
 
     Serial.print("Illuminance is almost ");
-    Serial.print(lux/1000, 1);
+    Serial.print(lux/1000, 3);
     Serial.println(" Kilo lux");
   }
     delay(350);
