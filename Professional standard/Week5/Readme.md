@@ -1,1 +1,1 @@
-<h1>Practising presentation skills</h1>
+<h1>Practicing presentation skills</h1>
