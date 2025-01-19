@@ -1,0 +1,16 @@
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\bin\Debug\net8.0-windows\SaasonApp.exe
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\bin\Debug\net8.0-windows\SaasonApp.deps.json
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\bin\Debug\net8.0-windows\SaasonApp.runtimeconfig.json
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\bin\Debug\net8.0-windows\SaasonApp.dll
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\bin\Debug\net8.0-windows\SaasonApp.pdb
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.Form1.resources
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.csproj.GenerateResource.cache
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.AssemblyInfoInputs.cache
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.AssemblyInfo.cs
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.csproj.CoreCompileInputs.cache
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.dll
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\refint\SaasonApp.dll
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.pdb
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\SaasonApp.genruntimeconfig.cache
+C:\Katerina\Windows Form App\SaasonApp\SaasonApp\obj\Debug\net8.0-windows\ref\SaasonApp.dll
