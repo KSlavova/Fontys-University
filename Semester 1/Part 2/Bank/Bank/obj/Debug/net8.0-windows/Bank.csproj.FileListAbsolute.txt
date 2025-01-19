@@ -1,0 +1,16 @@
+C:\Katerina\Windows Form App\Bank\Bank\bin\Debug\net8.0-windows\Bank.exe
+C:\Katerina\Windows Form App\Bank\Bank\bin\Debug\net8.0-windows\Bank.deps.json
+C:\Katerina\Windows Form App\Bank\Bank\bin\Debug\net8.0-windows\Bank.runtimeconfig.json
+C:\Katerina\Windows Form App\Bank\Bank\bin\Debug\net8.0-windows\Bank.dll
+C:\Katerina\Windows Form App\Bank\Bank\bin\Debug\net8.0-windows\Bank.pdb
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.Form1.resources
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.csproj.GenerateResource.cache
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.AssemblyInfo.cs
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.csproj.CoreCompileInputs.cache
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.dll
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\refint\Bank.dll
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.pdb
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\Bank.genruntimeconfig.cache
+C:\Katerina\Windows Form App\Bank\Bank\obj\Debug\net8.0-windows\ref\Bank.dll

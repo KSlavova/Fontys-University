@@ -1,0 +1,16 @@
+C:\Katerina\Windows Form App\CarApplication\CarApplication\bin\Debug\net8.0-windows\CarApplication.exe
+C:\Katerina\Windows Form App\CarApplication\CarApplication\bin\Debug\net8.0-windows\CarApplication.deps.json
+C:\Katerina\Windows Form App\CarApplication\CarApplication\bin\Debug\net8.0-windows\CarApplication.runtimeconfig.json
+C:\Katerina\Windows Form App\CarApplication\CarApplication\bin\Debug\net8.0-windows\CarApplication.dll
+C:\Katerina\Windows Form App\CarApplication\CarApplication\bin\Debug\net8.0-windows\CarApplication.pdb
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.Form1.resources
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.csproj.GenerateResource.cache
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.AssemblyInfoInputs.cache
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.AssemblyInfo.cs
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.csproj.CoreCompileInputs.cache
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.dll
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\refint\CarApplication.dll
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.pdb
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\CarApplication.genruntimeconfig.cache
+C:\Katerina\Windows Form App\CarApplication\CarApplication\obj\Debug\net8.0-windows\ref\CarApplication.dll
